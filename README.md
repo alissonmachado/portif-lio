@@ -12,8 +12,6 @@ Profissional com Bacharelado em Ciência da Computação e pós-graduações em 
 - 🌱 Cursando pós-graduação em **Artificial Intelligence for Business** (Impacta, até 06/2026)
 - 🏗️ Trabalho com pipelines de dados em **batch e tempo real (streaming)** sobre Data Lake / Lakehouse
 - 💬 Me pergunte sobre **Big Data, Spark, modelagem de dados e ecossistema Hadoop**
-- 📫 Contato: **[seu e-mail aqui]**
-
 ---
 
 ## 🛠️ Tecnologias e ferramentas
