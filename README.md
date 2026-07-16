@@ -8,10 +8,12 @@ Profissional com Bacharelado em Ciência da Computação e pós-graduações em 
 
 ## 🚀 Sobre mim
 
-- 🔭 Atualmente sou **Engenheiro de Dados Pleno na Minsait**
+- 🔭 Atualmente sou **Engenheiro de Dados Pleno**
 - 🌱 Cursando pós-graduação em **Artificial Intelligence for Business** (Impacta, até 06/2026)
 - 🏗️ Trabalho com pipelines de dados em **batch e tempo real (streaming)** sobre Data Lake / Lakehouse
 - 💬 Me pergunte sobre **Big Data, Spark, modelagem de dados e ecossistema Hadoop**
+- 📫 Contato: **[seu e-mail aqui]**
+
 ---
 
 ## 🛠️ Tecnologias e ferramentas
@@ -69,13 +71,35 @@ Profissional com Bacharelado em Ciência da Computação e pós-graduações em 
 
 ---
 
-## 📜 Certificações em destaque
+## 📜 Certificações
 
-- Academy Accreditation — **Databricks Fundamentals** & **Generative AI Fundamentals** (Databricks)
-- Databricks **Lakehouse Fundamentals**
-- Teradata — **Advanced SQL Engine** e **Vantage 2.3**
-- **AWS Cloud Practitioner Essentials** · **Microsoft Azure Fundamentals (AZ-900)**
-- **Fundamentos da LGPD** — CertiProf
+| Certificação | Instituição | Ano |
+|---|---|---|
+| Academy Accreditation — Databricks Fundamentals | Databricks | 2025 |
+| Databricks Lakehouse Fundamentals | Databricks | 2024 |
+| Academy Accreditation — Generative AI Fundamentals | Databricks | 2024 |
+| Intro to Advanced SQL Engine 17.10 | Teradata | 2023 |
+| Intro to Vantage 2.3 | Teradata | 2023 |
+| Fundamentos da Lei Geral de Proteção de Dados (LGPD) | CertiProf | 2024 |
+
+---
+
+## 📚 Cursos complementares
+
+- **Applied Data Science for Data Analysts** — 2024
+- **Introduction to Big Data with Spark and Hadoop** — 2024
+- **Big Data – Foundations** — Academy Semantix — 2022
+- **Data Engineer – Azure Cloud** — Gama Academy / Accenture — 2021
+- **Desenvolvedor Business Intelligence** — IGTI — 2020
+- **AWS Cloud Practitioner Essentials** — AWS — 2023
+- **Microsoft Azure Fundamentals (AZ-900)** — KaSolution — 2023
+- **Excel 2019 VBA — Acesso a Dados e Consultas SQL** — Impacta — 2023
+- **Gerenciamento de Projetos com Ênfase no PMI** — Impacta — 2023
+- **Jira Software — Gestão Ágil de Projetos e Operações** — Impacta — 2023
+- **Segurança em Tecnologia da Informação** — Fundação Bradesco — 2020
+- **Oracle One — Java** e **Empreendedorismo** — Alura — 2020
+- **Fundamentos de Suporte Técnico** — Coursera — 2020
+- **Excel Avançado** — Fundação Bradesco — 2019
 
 ---
 
@@ -90,7 +114,6 @@ Profissional com Bacharelado em Ciência da Computação e pós-graduações em 
 ## 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-machado-sousa/)
-
 
 ---
 
